@@ -6,6 +6,7 @@
 
 - 🎓 Studying Cyber Security
 - 💻 Eager to learn and explore new technologies
+- 🛠️ Working as Sys Admin
 
 <!---
 Lukas-Siegle/Lukas-Siegle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
