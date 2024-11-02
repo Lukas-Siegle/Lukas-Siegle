@@ -1,6 +1,6 @@
 # Lukas Siegle
 
-👋 I'm Lukas Siegle, a 21-year-old Cyber Security student currently in my 6th semester.
+👋 I'm Lukas Siegle, a 21-year-old Cyber Security student currently in my 7th semester.
 
 ## About Me
 
